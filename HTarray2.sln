@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTarray2", "HTarray2\HTarray2.csproj", "{BADCE595-2DB8-48FD-BD50-C6D0DD6F1FC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BADCE595-2DB8-48FD-BD50-C6D0DD6F1FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BADCE595-2DB8-48FD-BD50-C6D0DD6F1FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BADCE595-2DB8-48FD-BD50-C6D0DD6F1FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BADCE595-2DB8-48FD-BD50-C6D0DD6F1FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35A83022-728E-491D-B043-501D4661A058}
+	EndGlobalSection
+EndGlobal
